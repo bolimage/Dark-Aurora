@@ -380,7 +380,7 @@ button {
       background-color: #a3a3a3; }
     .osd button:disabled {
       color: #5d626e;
-      border-color: rgba(26, 28, 34, 0.31);
+      border-color: rgba(26, 28, 35, 0.31);
       background-color: rgba(163, 163, 163, 0.16); }
     .osd button.flat, .osd button.sidebar-button {
       border-color: transparent;
