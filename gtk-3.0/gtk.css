@@ -398,7 +398,7 @@ button {
         background-image: none; }
       .osd button.flat:active, .osd button.sidebar-button:active, .osd button.flat:checked, .osd button.sidebar-button:checked {
         color: #ffffff;
-        border-color: rgba(26, 28, 34, 0.31);
+        border-color: rgba(26, 30, 34, 0.31);
         background-color: #a3a3a3; }
   .osd .linked:not(.vertical):not(.path-bar) > button:hover:not(:checked):not(:active):not(:only-child),
   .osd .linked:not(.vertical):not(.path-bar) > button:hover:not(:checked):not(:active) + button:not(:checked):not(:active) {
