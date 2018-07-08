@@ -3917,7 +3917,7 @@ GraniteWidgetsPopOver {
   -GraniteWidgetsPopOver-border-radius: 2px;
   -GraniteWidgetsPopOver-border-width: 1;
   -GraniteWidgetsPopOver-shadow-size: 12;
-  border: 1px solid rgba(0, 0, 0, 0.3);
+  border: 1px solid rgba(0, 0, 0, 0.4);
   margin: 0; }
 
 .popover_bg {
