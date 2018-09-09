@@ -1810,7 +1810,7 @@ scrollbar {
     border: 4px solid transparent;
     border-radius: 8px;
     background-clip: padding-box;
-    background-color: #a9abb1; }
+    background-color: #a9abc1; }
     scrollbar slider:hover {
       background-color: #bdbfc4; }
     scrollbar slider:hover:active {
