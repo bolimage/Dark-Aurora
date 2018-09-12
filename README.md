@@ -1,6 +1,8 @@
 # Dark-Aurora
 Easy On The Eyes Gnome 3.28 Theme.
 
+Thanks to horst3180 and his Arc theme for inspiration.
+
 Theme can be download here : https://www.opendesktop.org/p/1234168/
 
 Full Dark Version here : https://www.opendesktop.org/p/1254680/
