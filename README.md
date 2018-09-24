@@ -9,6 +9,6 @@ Thanks to horst3180 and his Arc theme for inspiration.
 
 <b>SCREENSHOT</b>
 
-<img src="https://cdn.scrot.moe/images/2018/09/22/screen01.jpg" alt="screen01.jpg" border="0" />
+<img src="https://cdn.scrot.moe/images/2018/09/24/screen2001.jpg" alt="screen2001.jpg" border="0" />
 
-<img src="https://cdn.scrot.moe/images/2018/09/22/screen02610fd72af5b8df8e.jpg" alt="screen02610fd72af5b8df8e.jpg" border="0" />
+<img src="https://cdn.scrot.moe/images/2018/09/24/screen2002.jpg" alt="screen2002.jpg" border="0" />
