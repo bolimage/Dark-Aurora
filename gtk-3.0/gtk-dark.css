@@ -4301,7 +4301,7 @@ filechooser placessidebar.sidebar scrollbar,
 @define-color wm_shadow alpha(black, 0.35);
 @define-color wm_button_close_bg #cc575d;
 @define-color wm_button_close_hover_bg #d7786d;
-@define-color wm_button_close_active_bg #be3851;
+@define-color wm_button_close_active_bg #be3861;
 @define-color wm_icon_close_bg #505061;
 @define-color wm_button_hover_bg #454C5C;
 @define-color wm_button_active_bg #6988A6;
