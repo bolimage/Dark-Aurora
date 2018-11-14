@@ -11,4 +11,4 @@ Partially based on Arc theme by horst3180.
 
 <img src="https://cdn.scrot.moe/images/2018/11/14/screen36577.jpg" alt="screen36577.jpg" border="0" />
 
-<img src="https://cdn.scrot.moe/images/2018/11/05/screen589477.jpg" alt="screen589477.jpg" border="0" />
+<img src="https://cdn.scrot.moe/images/2018/11/14/screen01.jpg" alt="screen01.jpg" border="0" />
