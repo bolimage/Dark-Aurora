@@ -5,7 +5,8 @@ Theme can be download here : https://www.opendesktop.org/p/1234168/
 
 Full Dark Version here : https://www.opendesktop.org/p/1254680/
 
-Partially based on Arc theme by horst3180.
+Partially based on <a href="https://github.com/horst3180/arc-theme">Arc theme by horst3180.</a>
+
 
 <b>SCREENSHOT</b>
 
