@@ -1466,7 +1466,7 @@ StScrollBar {
   spacing: 8px;
   border-radius: 4px; }
   .hotplug-resident-mount:hover {
-    background-color: rgba(57, 63, 63, 0.3); }
+    background-color: rgba(57, 53, 63, 0.3); }
 
 .hotplug-resident-mount-label {
   color: inherit;
