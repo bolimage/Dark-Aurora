@@ -8,7 +8,7 @@ style "theme-panel" {
   bg[PRELIGHT] = "#494949"
   bg[SELECTED] = @selected_bg_color
 
-  fg[NORMAL] = "#BAC3CF"
+  fg[NORMAL] = "#BAC2CF"
   fg[PRELIGHT] = @selected_fg_color
   fg[ACTIVE] = @selected_fg_color
   fg[SELECTED] = @selected_fg_color
