@@ -1,5 +1,5 @@
 # Dark-Aurora
-Easy On The Eyes Gnome 3.30 Theme.
+Easy On The Eyes Gnome Theme.
 
 Theme can be download here : https://www.opendesktop.org/p/1234168/
 
