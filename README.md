@@ -1,9 +1,9 @@
 # Dark-Aurora
 Easy On The Eyes Gnome Theme.
 
-Theme can be download here : https://www.opendesktop.org/p/1234168/
+Theme can be download here : https://www.pling.com/p/1234168/
 
-Full Dark Version here : https://www.opendesktop.org/p/1254680/
+Full Dark Version here : https://www.pling.com/p/1254680/
 
 
 
