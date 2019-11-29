@@ -9,6 +9,5 @@ Full Dark Version here : https://www.pling.com/p/1254680/
 
 <b>SCREENSHOT</b>
 
-<img src="https://cdn.scrot.moe/images/2018/11/14/screen36577.jpg" alt="screen36577.jpg" border="0" />
+<img src="https://www.cjoint.com/doc/19_11/IKDjnhPgtkR_screen6587.jpg" alt="screen6587.jpg" border="0" />
 
-<img src="https://cdn.scrot.moe/images/2018/11/14/screen01.jpg" alt="screen01.jpg" border="0" />
